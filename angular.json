@@ -24,6 +24,7 @@
               "src/assets"
             ],
             "styles": [
+              "C:/Users/nxan/eclipse-workspace/toDo/todo/node_modules/bootstrap/dist/css/bootstrap.min.css",
               "src/styles.css"
             ],
             "scripts": []
