@@ -16,6 +16,7 @@ const routes: Routes = [
   { path: 'logout' , component: LogoutComponent },
   { path: 'todos/:id' , component: TodoComponent},
   { path: '**' , component: ErrorComponent }
+ 
 ];
 
 @NgModule({
